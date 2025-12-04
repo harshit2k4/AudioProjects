@@ -1,6 +1,6 @@
-# MP3 Player CLI
+# Audio Player CLI
 
-A simple command-line application written in C to decode and play MP3 audio files using the **libmad** decoder and the **ALSA** (Advanced Linux Sound Architecture) library for audio output.
+A simple command-line application written in C to decode and play audio files using the **libmad** decoder and the **ALSA** (Advanced Linux Sound Architecture) library for audio output.
 
 ## Requirements
 
