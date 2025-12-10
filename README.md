@@ -14,6 +14,7 @@ A command-line application written in C to decode and play audio files using the
 ## Requirements & Dependencies
 
 This project requires a C compiler (`gcc`) and the development header files for **libmad**, **libFLAC**, and **ALSA**.
+As of now, compilation and other support is available solely on Linux Environment. You can use others but it will be self-service way
 
 ### 1. Install Dependencies
 
